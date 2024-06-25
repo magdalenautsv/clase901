@@ -1,3 +1,2 @@
 archivo local
 segunda linea
-nueva linea 3
