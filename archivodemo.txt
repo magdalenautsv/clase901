@@ -1,4 +1,8 @@
 hola mundo
 el primer comentario
 linea creada en local
+<<<<<<< HEAD
 r
+=======
+linea remota
+>>>>>>> aed42be2c211b475b6ad2056847f353728c5a415
