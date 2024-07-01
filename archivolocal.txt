@@ -1,3 +1,4 @@
 archivo local
 segunda linea 2
 linea remota5
+practica git
